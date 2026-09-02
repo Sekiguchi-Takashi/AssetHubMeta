@@ -1,0 +1,10 @@
+{
+  "name": "テスト歩行 2026-09-02",
+  "image": "https:\/\/example.com\/proof.png",
+  "attributes": [
+    {
+      "trait_type": "distance_km",
+      "value": "3.2"
+    }
+  ]
+}
