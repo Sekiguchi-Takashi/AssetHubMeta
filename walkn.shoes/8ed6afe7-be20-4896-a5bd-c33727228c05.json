@@ -1,0 +1,39 @@
+{
+  "name": "ウォーカー #1",
+  "description": "WalkNApp の靴。適正速度 4.0〜7.0 km\/h。",
+  "attributes": [
+    {
+      "trait_type": "shoe_type",
+      "value": "ウォーカー"
+    },
+    {
+      "trait_type": "origin",
+      "value": "初期配布"
+    },
+    {
+      "trait_type": "serial",
+      "value": "1"
+    },
+    {
+      "trait_type": "speed_min_kmh",
+      "value": "4.0"
+    },
+    {
+      "trait_type": "speed_max_kmh",
+      "value": "7.0"
+    },
+    {
+      "trait_type": "durability_at_mint",
+      "value": "92"
+    },
+    {
+      "trait_type": "walk_minutes_at_mint",
+      "value": "52"
+    },
+    {
+      "trait_type": "minted_date",
+      "value": "2026-09-04"
+    }
+  ],
+  "image": "https:\/\/sekiguchi-takashi.github.io\/AssetHubMeta\/walkn.shoes\/8ed6afe7-be20-4896-a5bd-c33727228c05.jpg"
+}
