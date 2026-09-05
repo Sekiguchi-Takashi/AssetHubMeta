@@ -1,0 +1,22 @@
+{
+  "name": "トラ",
+  "attributes": [
+    {
+      "trait_type": "character_id",
+      "value": "tora"
+    },
+    {
+      "trait_type": "species",
+      "value": "tiger"
+    },
+    {
+      "trait_type": "origin",
+      "value": "初期8体"
+    },
+    {
+      "trait_type": "minted_date",
+      "value": "2026-09-05"
+    }
+  ],
+  "image": "https:\/\/sekiguchi-takashi.github.io\/AssetHubMeta\/sugoroku.chara\/sugoroku-chara-tora.png"
+}
