@@ -1,0 +1,22 @@
+{
+  "name": "しばいぬ",
+  "attributes": [
+    {
+      "trait_type": "character_id",
+      "value": "shiba"
+    },
+    {
+      "trait_type": "species",
+      "value": "dog"
+    },
+    {
+      "trait_type": "origin",
+      "value": "初期8体"
+    },
+    {
+      "trait_type": "minted_date",
+      "value": "2026-09-05"
+    }
+  ],
+  "image": "https:\/\/sekiguchi-takashi.github.io\/AssetHubMeta\/sugoroku.chara\/sugoroku-chara-shiba.png"
+}
